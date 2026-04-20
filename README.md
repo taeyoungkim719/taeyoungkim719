@@ -1,19 +1,31 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=220&section=header&text=Tae%20Young%20Kim&fontSize=40&fontColor=E6EDF3&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <b>✈️ Simulation & Aerospace-focused Developer</b><br/>
+  <span style="color:#00A8E8;">Air Traffic · Ground Movement · Control Systems</span>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>
-      Java
+      <sub>Java</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/><br/>
-      C++
+      <sub>C++</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/><br/>
-      MATLAB
+      <sub>MATLAB</sub>
     </td>
   </tr>
 </table>
@@ -21,27 +33,27 @@
 ---
 
 ### 🧰 Tools & Platforms
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/><br/>
-      IntelliJ
+      <sub>IntelliJ</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40"/><br/>
-      Eclipse
+      <sub>Eclipse</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br/>
-      Git
+      <sub>Git</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/github/181717" height="40"/><br/>
-      GitHub
+      <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/><br/>
+      <sub>GitHub</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/unrealengine/white" height="40"/><br/>
-      Unreal Engine
+      <img src="https://cdn.simpleicons.org/unrealengine/ffffff" height="40"/><br/>
+      <sub>Unreal</sub>
     </td>
   </tr>
 </table>
@@ -49,8 +61,23 @@
 ---
 
 ### 🛩 Engineering Focus
-<p>
-  <img src="https://img.shields.io/badge/Simulation-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Control-LQR-2ea043?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Physics_Modeling-6e7781?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Simulation-0A0F1C?style=for-the-badge&logoColor=00A8E8"/>
+  <img src="https://img.shields.io/badge/Control-LQR-14213D?style=for-the-badge&logoColor=00A8E8"/>
+  <img src="https://img.shields.io/badge/Physics_Modeling-1F3B4D?style=for-the-badge&logoColor=00A8E8"/>
+</p>
+
+---
+
+## 🚀 Focus
+
+- Air Traffic Simulation System  
+- Ground Movement Modeling  
+- Physics-based Control (LQR)  
+- Real-time Visualization  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=120&section=footer"/>
 </p>
