@@ -1,7 +1,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>
@@ -21,7 +21,7 @@
 ---
 
 ### 🧰 Tools & Platforms
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/><br/>
@@ -36,11 +36,11 @@
       Git
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br/>
+      <img src="https://cdn.simpleicons.org/github/181717" height="40"/><br/>
       GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40"/><br/>
+      <img src="https://cdn.simpleicons.org/unrealengine/white" height="40"/><br/>
       Unreal Engine
     </td>
   </tr>
@@ -54,17 +54,3 @@
   <img src="https://img.shields.io/badge/Control-LQR-2ea043?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Physics_Modeling-6e7781?style=for-the-badge"/>
 </p>
-<!--
-**taeyoungkim719/taeyoungkim719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
