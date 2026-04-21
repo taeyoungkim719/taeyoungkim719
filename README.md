@@ -6,7 +6,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8E8&size=22&center=true&vCenter=true&width=600&lines=Fast-time+Simulation+%26+Modelling;UAV+Systems+%26+MUM--T;Simulation-driven+Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8E8&size=22&center=true&vCenter=true&width=600&duration=1500&pause=1000&lines=Fast-time+Simulation+%26+Modelling;UAV+Systems+%26+MUM-T;Simulation-driven+Visualization"/>
 </p>
 
 <p align="center">
@@ -24,74 +24,57 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-### 💻 Languages
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>
-      Java<br/>
-      <sub>Core</sub>
-    </td>
-    <td align="center" valign="top" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>
-      Python<br/>
-      <sub>Data</sub>
-    </td>
-    <td align="center" valign="top" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/><br/>
-      MATLAB<br/>
-      <sub>Modelling</sub>
-    </td>
-    <td align="center" valign="top" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/><br/>
-      C++<br/>
-      <sub>Performance</sub>
-    </td>
+<!-- LANGUAGES -->
+<h3 align="center">💻 Languages</h3>
 
-  </tr>
-</table>
+<p align="center">
 
+<a href="#">
+  <img src="https://img.shields.io/badge/Java-Core-0A0F1C?style=for-the-badge&logo=java&logoColor=00A8E8"/>
+</a>
 
-### 🧰 Tools & Platforms
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <div style="height:60px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
-      </div>
-      <sub>IntelliJ</sub><br/>
-      <sub>Development</sub>
-    </td>
-    <td align="center" valign="top">
-      <div style="height:60px;">
-        <img src="https://cdn.simpleicons.org/dassaultsystemes/00A6D6" height="40"/>
-      </div>
-      <sub>CATIA</sub><br/>
-      <sub>Design</sub>
-    </td>
-    <td align="center" valign="top">
-      <div style="height:60px;">
-        <img src="https://cdn.simpleicons.org/unrealengine/FFFFFF" height="40"/>
-      </div>
-      <sub>Unreal</sub><br/>
-      <sub>Visualization</sub>
-    </td>
-    <td align="center" valign="top">
-      <div style="height:60px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-      </div>
-      <sub>Git</sub><br/>
-      <sub>Version Control</sub>
-    </td>
-    <td align="center" valign="top">
-      <div style="height:60px;">
-        <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40"/>
-      </div>
-      <sub>GitHub</sub><br/>
-      <sub>Collaboration</sub>
-    </td>
-  </tr>
-</table>
+<a href="#">
+  <img src="https://img.shields.io/badge/Python-Data-0A0F1C?style=for-the-badge&logo=python&logoColor=00A8E8"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/MATLAB-Modelling-0A0F1C?style=for-the-badge&logo=Mathworks&logoColor=00A8E8"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/C++-Performance-0A0F1C?style=for-the-badge&logo=cplusplus&logoColor=00A8E8"/>
+</a>
+
+</p>
+
+---
+
+<!-- TOOLS -->
+<h3 align="center">🧰 Tools & Platforms</h3>
+
+<p align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/IntelliJ-Development-0A0F1C?style=for-the-badge&logo=intellijidea&logoColor=00A8E8"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/CATIA-Design-0A0F1C?style=for-the-badge"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Unreal-Visualization-0A0F1C?style=for-the-badge&logo=unrealengine&logoColor=00A8E8"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Git-Version_Control-0A0F1C?style=for-the-badge&logo=git&logoColor=00A8E8"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/GitHub-Collaboration-0A0F1C?style=for-the-badge&logo=github&logoColor=00A8E8"/>
+</a>
+
+</p>
 
 ---
 
