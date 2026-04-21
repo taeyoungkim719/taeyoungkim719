@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=100&section=header&text=Tae%20Young%20Kim&fontSize=40&fontColor=E6EDF3&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=70&section=header&text=Tae%20Young%20Kim&fontSize=40&fontColor=E6EDF3&animation=fadeIn"/>
 </p>
 
 <!-- TYPING EFFECT -->
@@ -24,57 +24,68 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-<!-- LANGUAGES -->
-<h3 align="center">💻 Languages</h3>
+### 💻 Languages
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>
+      Java<br/>
+      <sub>Fast-time Simulation</sub>
+    </td>
+    <td align="center" valign="top" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>
+      Python<br/>
+      <sub>AI / ML (Learning)</sub>
+    </td>
+    <td align="center" valign="top" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/><br/>
+      MATLAB<br/>
+      <sub>Numerical Prototyping</sub>
+    </td>
+    <td align="center" valign="top" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/><br/>
+      Simulink<br/>
+      <sub>Aircraft Dynamics</sub>
+    </td>
+    <td align="center" valign="top" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/><br/>
+      C++<br/>
+      <sub>Unreal (Basic)</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Java-Core-0A0F1C?style=for-the-badge&logo=java&logoColor=00A8E8"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Python-Data-0A0F1C?style=for-the-badge&logo=python&logoColor=00A8E8"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/MATLAB-Modelling-0A0F1C?style=for-the-badge&logo=Mathworks&logoColor=00A8E8"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/C++-Performance-0A0F1C?style=for-the-badge&logo=cplusplus&logoColor=00A8E8"/>
-</a>
-
-</p>
-
----
-
-<!-- TOOLS -->
-<h3 align="center">🧰 Tools & Platforms</h3>
-
-<p align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/IntelliJ-Development-0A0F1C?style=for-the-badge&logo=intellijidea&logoColor=00A8E8"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/CATIA-Design-0A0F1C?style=for-the-badge"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Unreal-Visualization-0A0F1C?style=for-the-badge&logo=unrealengine&logoColor=00A8E8"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Git-Version_Control-0A0F1C?style=for-the-badge&logo=git&logoColor=00A8E8"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/GitHub-Collaboration-0A0F1C?style=for-the-badge&logo=github&logoColor=00A8E8"/>
-</a>
-
-</p>
+### 🧰 Tools & Platforms
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/><br/>
+      IntelliJ<br/>
+      <sub>Java Development</sub>
+    </td>
+    <td align="center" valign="top" width="100">
+      <img src="https://cdn.simpleicons.org/dassaultsystemes/00A6D6" height="40"/><br/>
+      CATIA<br/>
+      <sub>CAD Modeling</sub>
+    </td>
+    <td align="center" valign="top" width="100">
+      <img src="https://cdn.simpleicons.org/unrealengine/FFFFFF" height="40"/><br/>
+      Unreal<br/>
+      <sub>Simulation Visualization</sub>
+    </td>
+    <td align="center" valign="top" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br/>
+      Git<br/>
+      <sub>Version Control</sub>
+    </td>
+    <td align="center" valign="top" width="100">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40"/><br/>
+      GitHub<br/>
+      <sub>Collaboration</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
