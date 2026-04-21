@@ -43,7 +43,7 @@
       <sub>Numerical Prototyping</sub>
     </td>
     <td align="center" valign="top" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/><br/>
+      <img src="assets/simulink.png" height="40"/><br/>
       Simulink<br/>
       <sub>Aircraft Dynamics</sub>
     </td>
